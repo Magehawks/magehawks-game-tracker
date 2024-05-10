@@ -1,0 +1,17 @@
+{
+    "game_title": "Dark Souls",
+    "window_title": "DARK SOULS",
+    "check_interval": 1,
+    "use_timer": true,
+    "use_capture": true,
+    "capture_config": {
+        "output_path": "darksouls_capture.avi",
+        "fps": 20,
+        "resolution": [1280, 720]
+    },
+    "language_settings": {
+        "English": "Accept",
+        "German": "Akzeptieren"
+    },
+    "default_language": "English"
+}
